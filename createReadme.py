@@ -1,4 +1,6 @@
-''' Simple script to auto-generate the README.md file for a til project.
+''' 
+    Created by https://github.com/jima80525 - Jim Anderson
+    Simple script to auto-generate the README.md file for a til project.
     NOTE: Someone who wanted to be fancy would actually use a template engine
     for this, but this seemed like a task for which it is best to only require
     python.  This is not a general purpose script, but tailored for the format
