@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_2 TILs and counting..._
+_1 TILs and counting..._
 
 ---
 
@@ -20,7 +20,6 @@ _2 TILs and counting..._
 ### Misc
 
 - [Today I Learned](Misc\til.md)
-- [test](Misc\test.md)
 
 ## Usage
 
