@@ -7,15 +7,20 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_1 TILs and counting..._
+_2 TILs and counting..._
 
 ---
 
 ### Categories
 
+* [Cmd](#Cmd)
 * [Misc](#Misc)
 
 ---
+
+### Cmd
+
+- [Creating a List of files in Command Prompt](Cmd\list-of-files-cmd-or-infile.md)
 
 ### Misc
 
