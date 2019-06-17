@@ -20,11 +20,11 @@ _2 TILs and counting..._
 
 ### Cmd
 
-- [Creating a List of files in Command Prompt](Cmd\list-of-files-cmd-or-infile.md)
+- [Creating a List of files in Command Prompt](Cmd/list-of-files-cmd-or-infile.md)
 
 ### Misc
 
-- [Today I Learned](Misc\til.md)
+- [Today I Learned](Misc/til.md)
 
 ## Usage
 

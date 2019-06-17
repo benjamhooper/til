@@ -75,7 +75,7 @@ def get_tils(category):
     til_files = [x for x in os.listdir(category)]
     titles = []
     for filename in til_files:
-        fullname = os.path.join(category, filename)
+        fullname = os.path.join(category + '/' + filename) #if you are on windows + '/' + adds this in path for github, if on linux remove + '/' + and add a comma between variables
         if (os.path.isfile(fullname)) and fullname.endswith('.md'):
             title = get_title(fullname)
             titles.append((title, fullname))
