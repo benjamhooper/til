@@ -7,24 +7,29 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_2 TILs and counting..._
+_3 TILs and counting..._
 
 ---
 
 ### Categories
 
-* [Cmd](#Cmd)
-* [Misc](#Misc)
+* [Cmd](#cmd)
+* [Git](#git)
+* [Misc](#misc)
 
 ---
 
 ### Cmd
 
-- [Creating a List of files in Command Prompt](Cmd/list-of-files-cmd-or-infile.md)
+- [Creating a List of files in Command Prompt](cmd/list-of-files-cmd-or-infile.md)
+
+### Git
+
+- [Git Log](git/git-log.md)
 
 ### Misc
 
-- [Today I Learned](Misc/til.md)
+- [Today I Learned](misc/til.md)
 
 ## Usage
 
