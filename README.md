@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_3 TILs and counting..._
+_4 TILs and counting..._
 
 ---
 
@@ -15,6 +15,7 @@ _3 TILs and counting..._
 
 * [Cmd](#cmd)
 * [Git](#git)
+* [Jenkins](#jenkins)
 * [Misc](#misc)
 
 ---
@@ -26,6 +27,10 @@ _3 TILs and counting..._
 ### Git
 
 - [Git Log](git/git-log.md)
+
+### Jenkins
+
+- [Jenkins Environment Variables](jenkins/env-var.md)
 
 ### Misc
 
