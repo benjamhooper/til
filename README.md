@@ -7,22 +7,27 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_4 TILs and counting..._
+_5 TILs and counting..._
 
 ---
 
 ### Categories
 
-* [Cmd](#cmd)
+* [Cmd](#Cmd)
+* [Misc](#Misc)
 * [Git](#git)
 * [Jenkins](#jenkins)
-* [Misc](#misc)
 
 ---
 
 ### Cmd
 
-- [Creating a List of files in Command Prompt](cmd/list-of-files-cmd-or-infile.md)
+- [Creating a List of files in Command Prompt](Cmd/list-of-files-cmd-or-infile.md)
+
+### Misc
+
+- [Ontime(Axosoft) Commit Messages](Misc/ontime-commit-messages.md)
+- [Today I Learned](Misc/til.md)
 
 ### Git
 
@@ -31,10 +36,6 @@ _4 TILs and counting..._
 ### Jenkins
 
 - [Jenkins Environment Variables](jenkins/env-var.md)
-
-### Misc
-
-- [Today I Learned](misc/til.md)
 
 ## Usage
 
