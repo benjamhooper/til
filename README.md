@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_5 TILs and counting..._
+_6 TILs and counting..._
 
 ---
 
@@ -17,6 +17,7 @@ _5 TILs and counting..._
 * [Misc](#Misc)
 * [Git](#git)
 * [Jenkins](#jenkins)
+* [Powershell](#powershell)
 
 ---
 
@@ -36,6 +37,10 @@ _5 TILs and counting..._
 ### Jenkins
 
 - [Jenkins Environment Variables](jenkins/env-var.md)
+
+### Powershell
+
+- [Count files with Extension](powershell/count-files-with-ext.md)
 
 ## Usage
 
