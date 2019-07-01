@@ -13,22 +13,18 @@ _7 TILs and counting..._
 
 ### Categories
 
-* [Cmd](#Cmd)
-* [Misc](#Misc)
+* [Cmd](#cmd)
 * [Git](#git)
 * [Jenkins](#jenkins)
+* [Misc](#misc)
 * [Powershell](#powershell)
+* [Sql](#sql)
 
 ---
 
 ### Cmd
 
-- [Creating a List of files in Command Prompt](Cmd/list-of-files-cmd-or-infile.md)
-
-### Misc
-
-- [Ontime(Axosoft) Commit Messages](Misc/ontime-commit-messages.md)
-- [Today I Learned](Misc/til.md)
+- [Creating a List of files in Command Prompt](cmd/list-of-files-cmd-or-infile.md)
 
 ### Git
 
@@ -39,9 +35,18 @@ _7 TILs and counting..._
 
 - [Jenkins Environment Variables](jenkins/env-var.md)
 
+### Misc
+
+- [Ontime(Axosoft) Commit Messages](misc/ontime-commit-messages.md)
+- [Today I Learned](misc/til.md)
+
 ### Powershell
 
 - [Count files with Extension](powershell/count-files-with-ext.md)
+
+### Sql
+
+- [SQL Delete](sql/sql-delete.md)
 
 ## Usage
 
