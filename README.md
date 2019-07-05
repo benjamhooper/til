@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_7 TILs and counting..._
+_8 TILs and counting..._
 
 ---
 
@@ -42,6 +42,7 @@ _7 TILs and counting..._
 ### Powershell
 
 - [Count files with Extension](powershell/count-files-with-ext.md)
+- [Remove Items including File Types](powershell/remove-file.md)
 
 ### Sql
 
