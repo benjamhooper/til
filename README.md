@@ -13,10 +13,10 @@ _8 TILs and counting..._
 
 ### Categories
 
-* [Cmd](#cmd)
+* [Cmd](#Cmd)
+* [Misc](#Misc)
 * [Git](#git)
 * [Jenkins](#jenkins)
-* [Misc](#misc)
 * [Powershell](#powershell)
 * [Sql](#sql)
 
@@ -24,20 +24,21 @@ _8 TILs and counting..._
 
 ### Cmd
 
-- [Creating a List of files in Command Prompt](cmd/list-of-files-cmd-or-infile.md)
+- [Creating a List of files in Command Prompt](Cmd/list-of-files-cmd-or-infile.md)
+
+### Misc
+
+- [Ontime(Axosoft) Commit Messages](Misc/ontime-commit-messages.md)
+- [Today I Learned](Misc/til.md)
 
 ### Git
 
+- [Git Bare](git/git-bare.md)
 - [Git Log](git/git-log.md)
 
 ### Jenkins
 
 - [Jenkins Environment Variables](jenkins/env-var.md)
-
-### Misc
-
-- [Ontime(Axosoft) Commit Messages](misc/ontime-commit-messages.md)
-- [Today I Learned](misc/til.md)
 
 ### Powershell
 
