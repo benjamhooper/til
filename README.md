@@ -52,7 +52,7 @@ _10 TILs and counting..._
 
 ### Vstudio
 
-- [# Summary Comment](vstudio/summary-comment.md)
+- [Summary Comment](vstudio/summary-comment.md)
 
 ## Usage
 
