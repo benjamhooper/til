@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_11 TILs and counting..._
+_12 TILs and counting..._
 
 ---
 
@@ -31,6 +31,7 @@ _11 TILs and counting..._
 ### Git
 
 - [Git Bare](git/git-bare.md)
+- [Git Case Sensitive](git/git-case-sensitive.md)
 - [Git Log](git/git-log.md)
 
 ### Jenkins
