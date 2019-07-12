@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_9 TILs and counting..._
+_10 TILs and counting..._
 
 ---
 
@@ -25,6 +25,7 @@ _9 TILs and counting..._
 ### Cmd
 
 - [Creating a List of files in Command Prompt](cmd/list-of-files-cmd-or-infile.md)
+- [Delete Folder](cmd/delete-folder.md)
 
 ### Git
 
