@@ -1,4 +1,4 @@
-#Git Index Lock
+# Git Index Lock
 I was trying to rename folders with `git mv <folder> <folder2>` and got an error `Rename from '.git/index.lock' to '.git/index' failed. Should I try again? (y/n)`
 `Failed because of a lock ... etc..`
 
