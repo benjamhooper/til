@@ -7,12 +7,13 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_13 TILs and counting..._
+_14 TILs and counting..._
 
 ---
 
 ### Categories
 
+* [Azure](#azure)
 * [Cmd](#cmd)
 * [Git](#git)
 * [Jenkins](#jenkins)
@@ -22,6 +23,10 @@ _13 TILs and counting..._
 * [Vstudio](#vstudio)
 
 ---
+
+### Azure
+
+- [Simple Azure Statement taking 15-30 minute Fix](azure/azure-sql-long-wait.md)
 
 ### Cmd
 
