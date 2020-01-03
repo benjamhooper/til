@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_15 TILs and counting..._
+_16 TILs and counting..._
 
 ---
 
@@ -58,6 +58,7 @@ _15 TILs and counting..._
 ### Sql
 
 - [SQL Delete](sql/sql-delete.md)
+- [SQL Information](sql/sql-information.md)
 
 ### Vstudio
 
