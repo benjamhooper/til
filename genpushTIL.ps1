@@ -1,4 +1,4 @@
-python createReadme.py
+py createReadme.py
 $tilcount = Get-ChildItem -Recurse -File -filter *.md| Measure-Object | %{$_.Count}
 $tilcountminusreadme = $tilcount - 1
 git pull

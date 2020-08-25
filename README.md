@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_16 TILs and counting..._
+_17 TILs and counting..._
 
 ---
 
@@ -15,6 +15,7 @@ _16 TILs and counting..._
 
 * [Azure](#azure)
 * [Cmd](#cmd)
+* [Efcore](#efcore)
 * [Git](#git)
 * [Jenkins](#jenkins)
 * [Misc](#misc)
@@ -32,6 +33,10 @@ _16 TILs and counting..._
 
 - [Creating a List of files in Command Prompt](cmd/list-of-files-cmd-or-infile.md)
 - [Delete Folder](cmd/delete-folder.md)
+
+### Efcore
+
+- [Designer Files](efcore/designer-files.md)
 
 ### Git
 
